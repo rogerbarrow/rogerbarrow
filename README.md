@@ -1,4 +1,4 @@
-<h1>Hi, I'm Roger! <br/><a href="https://github.com/rogerbarrow">Cloud Engineer/DevSecOps</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Roger! <br/><a href="https://github.com/rogerbarrow">Cloud Engineer/DevSecOps</a>, <a href="https://www.linkedin.com/in/roger-barrow-8b2698174/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cloud/ Cybersecurity Projects:</h2>
 
