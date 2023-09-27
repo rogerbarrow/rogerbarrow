@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud/ Cybersecurity Projects:</h2>
 
 - <b>AWS production Level VPC Deployment  (AWS )</b>
-  - [Praciting DS & Algos in Python](https://github.com/rogerbarrow/AWS_Project_Production_Lab_Project_1)
+  - [ create VPC that you can use for servers in a production environment](https://github.com/rogerbarrow/AWS_Project_Production_Lab_Project_1)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
