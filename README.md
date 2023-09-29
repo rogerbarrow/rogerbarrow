@@ -33,7 +33,7 @@
 [<img align="left" alt="RogerBarrow | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RogerBarrow | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
+[twitter]: https://twitter.com
 [youtube]: https://www.youtube.com/channel/UCp5yt79N70BTmqx5nVG9VeQ
 [instagram]: https://www.instagram.com/jamelintech/
 [linkedin]: https://www.linkedin.com/in/roger-barrow-8b2698174/
