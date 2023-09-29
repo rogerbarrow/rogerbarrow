@@ -22,9 +22,8 @@
 
 - [Tryhackme.com](https://tryhackme.com/p/roger612)
 - [Credly.com](https://www.credly.com/users/roger-barrow.42c07f95)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [follow me on youtube](https://www.youtube.com/channel/UCp5yt79N70BTmqx5nVG9VeQ)
+- [Rogerbarrow.tech](https://www.rogerbarrow.tech/)
 
 <h2> 🤳 Connect with me:</h2>
 
