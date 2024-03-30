@@ -6,7 +6,7 @@
   - [ create VPC that you can use for servers in a production environment](https://github.com/rogerbarrow/AWS_Project_Production_Lab_Project_1)
 - <b>Setting up a honeypot in AWS and Analyzing Cyber Attacks)</b>
   - [honeypot in AWS ](https://github.com/rogerbarrow/Honeypot-AWS/blob/main/README.md) <b><i>(Cyber Attacks)</b></i>
-- <b> kubernetes-Kyverno-Argocd</b>
+- <b> Kubernetes-Kyverno-Argocd</b>
   - [ we will learn how to enforce policies, governence and compliance on your kubernetes cluster](https://github.com/rogerbarrow/k8s-kyverno-argocd/blob/main/README.md)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
