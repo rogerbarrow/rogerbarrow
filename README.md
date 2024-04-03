@@ -8,7 +8,7 @@
   - [honeypot in AWS ](https://github.com/rogerbarrow/Honeypot-AWS/blob/main/README.md) <b><i>(Cyber Attacks)</b></i>
 - <b> Kubernetes-Kyverno-Argocd</b>
   - [ we will learn how to enforce policies, governence and compliance on your kubernetes cluster](https://github.com/rogerbarrow/k8s-kyverno-argocd/blob/main/README.md)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Deploy a 3 Tier Architecture (AWS-database )](https://github.com/rogerbarrow/3-tier-architecture-AWS)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
