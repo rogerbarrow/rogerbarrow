@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cloud/ Cybersecurity Projects:</h2>
 
+- <b>AWS DevOps Project (AWS )</b>
 - <b>AWS production Level VPC Deployment  (AWS )</b>
   - [ create VPC that you can use for servers in a production environment](https://github.com/rogerbarrow/AWS_Project_Production_Lab_Project_1)
 - <b>Setting up a honeypot in AWS and Analyzing Cyber Attacks)</b>
