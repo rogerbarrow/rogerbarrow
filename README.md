@@ -11,7 +11,7 @@
   - [Deploy a 3 Tier Architecture (AWS-database )](https://github.com/rogerbarrow/3-tier-architecture-AWS)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PSZ)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIMZ)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>AZURE-DEVOPS (PROJECTS)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOCZ)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOCZ)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-EmailZ)
