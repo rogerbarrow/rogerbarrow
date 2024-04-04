@@ -4,7 +4,7 @@
 
 - <b>AWS DevOps Project (AWS )</b>
   - AWS production Level VPC Deployment  (AWS )
-  -   - [AWS Security Group and NACL (production Grade)]([)]((https://github.com/rogerbarrow/AWS_Project_Production_Lab_Project_1))
+  -   - [AWS Security Group and NACL (production Grade)]([)](https://github.com/rogerbarrow/AWS_Project_Production_Lab_Project_1)
   - [ create VPC that you can use for servers in a production environment]
 - <b>Setting up a honeypot in AWS and Analyzing Cyber Attacks)</b>
   - [honeypot in AWS ](https://github.com/rogerbarrow/Honeypot-AWS/blob/main/README.md) <b><i>(Cyber Attacks)</b></i>
