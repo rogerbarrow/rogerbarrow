@@ -9,8 +9,8 @@
 - <b> Kubernetes-Kyverno-Argocd</b>
   - [ we will learn how to enforce policies, governence and compliance on your kubernetes cluster](https://github.com/rogerbarrow/k8s-kyverno-argocd/blob/main/README.md)
   - [Deploy a 3 Tier Architecture (AWS-database )](https://github.com/rogerbarrow/3-tier-architecture-AWS)
-- <b> Cyber Security Project: Vulnerability Managment Qualys</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PSZ)
+- <b> Cyber Security Project:</b>
+  - [ Vulnerability Managment Qualys](https://github.com/rogerbarrow/Cyber-Security-Qualys)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIMZ)
 - <b>AZURE-DEVOPS (PROJECTS)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOCZ)
