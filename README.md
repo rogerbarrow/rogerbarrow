@@ -5,7 +5,7 @@
 - <b>AWS DevOps Project (AWS )</b>
   - [AWS production Level VPC Deployment)](https://github.com/rogerbarrow/AWS_Project_Production_Lab_Project_1)]
   - [Deploy a 3 Tier Architecture (AWS-database )](https://github.com/rogerbarrow/3-tier-architecture-AWS)
- - [CICD Pipeline Terraform, K8, Jenkins, Sonar Devops)](https://github.com/rogerbarrow/AWS_Project_Production_Lab_Project_1)]
+  - [CICD Pipeline Terraform, K8, Jenkins, Sonar Devops)](https://github.com/rogerbarrow/AWS_Project_Production_Lab_Project_1)]
 - <b>Setting up a honeypot in AWS and Analyzing Cyber Attacks)</b>
   - [honeypot in AWS ](https://github.com/rogerbarrow/Honeypot-AWS/blob/main/README.md) <b><i>(Cyber Attacks)</b></i>
 - <b> Kubernetes-Kyverno-Argocd</b>
