@@ -1,8 +1,8 @@
 <h1>Hi, I'm Roger! <br/><a href="https://github.com/rogerbarrow">Cloud Engineer/DevSecOps</a>, <a href="https://www.linkedin.com/in/roger-barrow-8b2698174/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCp5yt79N70BTmqx5nVG9VeQ">YouTuber</a></h1>
 
-<h2>👨‍💻 Cloud/ Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cloud/ AWS DevOps Projects:</h2>
 
-- <b>AWS DevOps Project (AWS )</b>
+- <b>Project (AWS )</b>
  - [AWS Cloud Cost Optimization)](https://github.com/rogerbarrow/AWS-Cost-Optimization)]
   - [AWS production Level VPC Deployment)](https://github.com/rogerbarrow/AWS_Project_Production_Lab_Project_1)]
   - [Deploy a 3 Tier Architecture (AWS-database )](https://github.com/rogerbarrow/3-tier-architecture-AWS)
