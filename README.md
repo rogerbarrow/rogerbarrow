@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud/ AWS DevOps Projects:</h2>
 
-- <b>Project (AWS )</b>
+
  - [AWS Cloud Cost Optimization)](https://github.com/rogerbarrow/AWS-Cost-Optimization)]
   - [AWS production Level VPC Deployment)](https://github.com/rogerbarrow/AWS_Project_Production_Lab_Project_1)]
   - [Deploy a 3 Tier Architecture (AWS-database )](https://github.com/rogerbarrow/3-tier-architecture-AWS)
