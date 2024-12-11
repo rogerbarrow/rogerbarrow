@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud/ Cybersecurity Projects:</h2>
 
 - <b>AWS DevOps Project (AWS )</b>
- - [AWS Cloud Cost Optimization)](https://github.com/rogerbarrow/AWS-Cost-Optimization]
+ - [AWS Cloud Cost Optimization)](https://github.com/rogerbarrow/AWS-Cost-Optimization)]
   - [AWS production Level VPC Deployment)](https://github.com/rogerbarrow/AWS_Project_Production_Lab_Project_1)]
   - [Deploy a 3 Tier Architecture (AWS-database )](https://github.com/rogerbarrow/3-tier-architecture-AWS)
   - [CICD Pipeline Terraform, K8, Jenkins, Sonar Devops)](https://github.com/rogerbarrow/CICD-k8-Terraform/blob/main/README.md)]
