@@ -13,7 +13,7 @@
   - [honeypot in AWS ](https://github.com/rogerbarrow/Honeypot-AWS/blob/main/README.md) <b><i>(Cyber Attacks)</b></i>
 - <b> Kubernetes-Kyverno-Argocd</b>
   - [ we will learn how to enforce policies, governence and compliance on your kubernetes cluster](https://github.com/rogerbarrow/k8s-kyverno-argocd/blob/main/README.md)
-
+<h2>👨‍💻 Observability DevOps Projects:</h2>
 <h2>👨‍💻 Azure Projects:</h2> 
  - [AWS Cloud Cost Optimization)](https://github.com/rogerbarrow/AWS-Cost-Optimization)]
   - [AWS production Level VPC Deployment)](https://github.com/rogerbarrow/AWS_Project_Production_Lab_Project_1)]
