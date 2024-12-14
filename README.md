@@ -16,6 +16,9 @@
 <h2>👨‍💻 Observability DevOps Projects:</h2>
 - [Kubernetes Monitoring Prometheus and Grafanaa)](https://github.com/rogerbarrow/Prometheus-Grafana)]
 
+
+ - [Kubernetes Monitoring Prometheus and Grafanaa)](https://github.com/rogerbarrow/Prometheus-Grafana)]
+
 <h2>👨‍💻 Azure Projects:</h2> 
  - [AWS Cloud Cost Optimization)](https://github.com/rogerbarrow/AWS-Cost-Optimization)]
   - [AWS production Level VPC Deployment)](https://github.com/rogerbarrow/AWS_Project_Production_Lab_Project_1)]
