@@ -1,7 +1,7 @@
 <h1>Hi, I'm Roger! <br/><a href="https://github.com/rogerbarrow">Cloud Engineer/DevSecOps</a>, <a href="https://www.linkedin.com/in/roger-barrow-8b2698174/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCp5yt79N70BTmqx5nVG9VeQ">YouTuber</a></h1>
 
 
-<h2>  DevOps Engineer, Cloud Native Engineer, command line inhabitant. I work mainly with Linux, AWS , Kubernetes, CICD and Python./h2>
+<h2>  DevOps Engineer, Cloud Native Engineer, command line inhabitant. I work mainly with Linux, AWS , Kubernetes, CICD and Python.</h2>
 
 <h2>👨‍💻 Cloud/ AWS DevOps Projects:</h2>
 
